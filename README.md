@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html, css, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fabian.aron7@gmail.com
-- My mentor: https://github.com/MrDanielHarka
+- My mentor: <a href="https://github.com/MrDanielHarka">@MrDanielHarka</a>
 
 <!---
 AronFabianHu/AronFabianHu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
