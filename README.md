@@ -2,6 +2,7 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning html, css, javascript
 - 💞️ I’m looking to collaborate on ...
+- 📌 My portfolio website https://levelupmarketing.hu
 - 📫 How to reach me fabian.aron7@gmail.com
 - 👨‍🏫 My mentor: <a href="https://github.com/MrDanielHarka">@MrDanielHarka</a>
 
