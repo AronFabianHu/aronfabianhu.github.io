@@ -400,6 +400,13 @@ h2 {
 
 }
 
+.thumbs2 {
+    background-image: url("images/portfolio/score-keeper-portfolio.jpg");
+    background-position: top center;
+    background-size: cover;
+
+}
+
 @media (max-width: 1524px) {
     .portfolio .thumbs {
         height: 500px;
